@@ -28,3 +28,8 @@
 - enjoy your new influencer product video 
 
 
+## running gradio
+
+```bash
+python file_upload.py
+```
